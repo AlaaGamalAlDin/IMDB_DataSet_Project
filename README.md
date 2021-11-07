@@ -16,3 +16,9 @@ The chief aim of this assignment was to demonstrate our knowledge and applicatio
 # Create Visualizations:
 
 The evaluation criteria was to incorporate appropriate visualizations of our Summary statistics. We also had to present varied plots and multiple comparisons and trends. (minimum two) But the goal was to master depicting data such that it effectively communicated the results of our analysis and allowed easy interpretation.
+
+
+
+
+
+You will find links that helped me in this project in Readme.txt
